@@ -29,7 +29,7 @@ const UserExp = () => {
                             Satisfaction Guarantee
                         </div>
                         <div className='font-semibold text-gray-500 text-wrap'>
-                            Exchange the product you've purchased if it doesn't fit on you
+                            Exchange the product you&apos;ve purchased if it doesn&apos;t fit on you
                         </div>
                     </div>
                     <div className='items-center text-center lg:text-left lg:items-start lg:w-[20%] flex flex-col gap-2'>
