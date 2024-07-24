@@ -16,5 +16,27 @@ export const BrandsCompany = [
     'dior.png',
     'versica.png',
     'wing.png'
-    
+]
+
+export const UserRev = [
+    {
+        'iconName' : 'CircleDollarSign',
+        'title': 'Original Products',
+        'desc': 'We provide money back guarantee if the product are not original'
+    },
+    {
+        'iconName' : 'laugh',
+        'title': 'Satisfaction Guarantee',
+        'desc': "Exchange the product you've purchased if it doesn't fit on you"
+    },
+    {
+        'iconName' : 'CircleDollarSign',
+        'title': 'New Arrival Everyday',
+        'desc': "We updates our collections almost everyday"
+    },
+    {
+        'iconName' : 'CircleDollarSign',
+        'title': 'Fast & Free Shipping',
+        'desc': "We offer fast and free shipping for our loyal customer"
+    }
 ]

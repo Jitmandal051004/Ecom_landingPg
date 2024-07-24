@@ -10,7 +10,7 @@ const Brands = () => {
                 <div className='font-bold text-3xl mb-7'>
                     Brands
                 </div>
-                <div className='flex items-center gap-12 overflow-hidden'>
+                <div className='flex items-center justify-evenly flex-wrap overflow-hidden'>
                     {BrandsCompany.map((brand, index)=>
                         <span key={index}>
                             <Image
