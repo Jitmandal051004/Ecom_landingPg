@@ -20,6 +20,11 @@ const config = {
     extend: {
       backgroundImage: {
         'hero-banner': "url('/images/banner.jpg')",
+        'CP1': "url('/images/CP1.jpg')",
+        'CP2': "url('/images/CP2.jpg')",
+        'CP3': "url('/images/CP3.jpg')",
+        'CP4': "url('/images/CP4.jpg')",
+        'offer-banner': "url('/images/banner2.jpg')"
       },
       colors: {
         border: "hsl(var(--border))",

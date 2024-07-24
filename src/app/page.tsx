@@ -1,4 +1,4 @@
-import { Banner, Brands, Navbar, UserExp } from "@/components";
+import { Banner, Brands, Currated, Footbar, Navbar, OfferBanner, Subscribe, UserExp } from "@/components";
 
 export default function Home() {
     return (
@@ -7,6 +7,10 @@ export default function Home() {
             <Banner />
             <Brands />
             <UserExp />
+            <Currated />
+            <OfferBanner />
+            <Subscribe />
+            <Footbar />
         </div>
     )
 }

@@ -40,3 +40,49 @@ export const UserRev = [
         'desc': "We offer fast and free shipping for our loyal customer"
     }
 ]
+
+export const CuratedP = [
+    {
+        'img': "bg-CP1.jpg",
+        "content": "Best Seller"
+    },
+    {
+        'img': "bg-CP4.jpg",
+        "content": "Shop Men"
+    },
+    {
+        'img': "bg-CP3.jpg",
+        "content": "Shop Women"
+    },
+    {
+        'img': "bg-CP5.jpg",
+        "content": "Shop Casual"
+    },
+]
+
+export const footerLinks = [
+    {
+        title: 'SHOP',
+        links: [
+            'All Collections',
+            'Winter Edition',
+            'Discount',
+        ]
+    },
+    {
+        title: 'Company',
+        links: [
+            'About Us',
+            'Contact',
+            'Affiliates',
+        ],
+    },
+    {
+        title: 'Support',
+        links: [
+            'FAQs',
+            'Cookie Policy',
+            'Terms of Use',
+        ],
+    }
+]
